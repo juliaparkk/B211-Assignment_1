@@ -24,7 +24,7 @@ Each password type has its own directory:
 If these directories do not exist, the program automatically creates them.
 
 ## How to Use
-```python
+" ```python "
 password_generator()
 Then run: python password_generator.py
 You will be prompted to choose:
