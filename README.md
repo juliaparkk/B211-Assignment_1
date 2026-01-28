@@ -23,8 +23,6 @@ Each password type has its own directory:
 
 If these directories do not exist, the program automatically creates them.
 
----
-
 ## How to Use
 ```python
 password_generator()
