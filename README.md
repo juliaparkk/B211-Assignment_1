@@ -28,8 +28,6 @@ If these directories do not exist, the program automatically creates them.
 ## How to Use
 
 ## **Interactive Mode**
-Uncomment the following line in the script:
-
 ```python
 password_generator()
 Then run: python password_generator.py
